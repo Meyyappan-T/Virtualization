@@ -110,9 +110,9 @@ Thus, Kali Linux guest OS was installed and configured successfully.
     The ls command is used to display a list of content of a directory.
 
 ### Syntax:
-```
+
 ls
-```
+
 ![image](https://github.com/user-attachments/assets/65cbb685-53e1-4d50-b109-2d3a73e366dc)
 
 2. pwd Command
@@ -120,9 +120,9 @@ ls
     The pwd command is used to display the location of the current working directory.
 
 ### Syntax: 
-```
+
 pwd
-```
+
 ![image](https://github.com/user-attachments/assets/06a87e8c-9f1f-4f33-9c75-d9a5f75c8d60)
 
 
@@ -131,9 +131,9 @@ pwd
     The mkdir command is used to create a new directory under any directory.
 
 ### Syntax: 
-```
+
 mkdir <directory_name>
-```
+
 ![image](https://github.com/user-attachments/assets/1b1790eb-a58c-4bbb-a2b7-ee9ab6051a93)
 
 
@@ -142,9 +142,9 @@ mkdir <directory_name>
     The rmdir command is used to delete a directory.
 
 ### Syntax: 
-```
+
 rmdir <directory_name>
-```
+
 ![image](https://github.com/user-attachments/assets/5002fe8b-4414-42d0-8519-3d1f452fbafb)
 
 
@@ -152,9 +152,9 @@ rmdir <directory_name>
 The cd command is used to change the current directory
 
 ### Syntax: 
-```
+
 cd <directory_name>
-```
+
 ![image](https://github.com/user-attachments/assets/84cead37-3512-4e54-8884-427cb99b15fc)
 
 
@@ -163,9 +163,9 @@ cd <directory_name>
     The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content ofthe file, copy the content of one file to another file, and more.
 
 ### Syntax: 
-```
+
 cat [options] [file_name]
-```
+
 ![image](https://github.com/user-attachments/assets/2361932b-99fc-4118-9097-bd9bdce384f0)
 
 ![image](https://github.com/user-attachments/assets/4c6d451f-4bfc-48f1-b4cd-0217fef9e06c)
@@ -174,9 +174,9 @@ cat [options] [file_name]
 
     The cp command is used to copy a file or directory.
 ### Syntax: 
-```
+
 cp [source] [destination]
-```
+
 ![image](https://github.com/user-attachments/assets/4e377a91-23d4-4169-a66b-f88af203a60b)
 
 
@@ -188,9 +188,9 @@ cp [source] [destination]
     The mv command is used to move a file or a directory form one location to another location.
 
 ### Syntax: 
-```
+
 mv [source] [destination]
-```
+
 ![image](https://github.com/user-attachments/assets/fd4832ba-1dad-45a7-a213-a5f28ca508db)
 
 
@@ -202,9 +202,9 @@ mv [source] [destination]
     Create empty file.
 
 ### Syntax: 
-```
+
 touch [filename]
-```
+
 ![image](https://github.com/user-attachments/assets/0ee05807-fe42-4579-a1bf-6562904fd7b1)
 
 
@@ -213,9 +213,9 @@ touch [filename]
     Edit file contents using editor.
 
 ### Syntax: 
-```
+
 vi [filename]
-```
+
 ![image](https://github.com/user-attachments/assets/77ca13f3-45d7-4da6-88af-cdd2e280f41b)
 
 ## Result:
